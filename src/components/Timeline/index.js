@@ -2,7 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import Post from '../Post';
-// import from './styles';
+
+import './style.scss';
 
 const Timeline = (props) => {
   const { posts } = props;

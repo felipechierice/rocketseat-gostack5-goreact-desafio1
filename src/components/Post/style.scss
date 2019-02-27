@@ -1,0 +1,16 @@
+.post {
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 20px;
+
+  hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #ddd; /* old IE */
+    background-color: #ddd; /* Modern Browsers */
+    margin: 10px 0;
+  }
+}
